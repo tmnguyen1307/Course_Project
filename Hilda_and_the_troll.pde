@@ -1,9 +1,6 @@
-//Name: Tam Nguyen 
 //Inspiration: Hilda and the Trolls - Luke Pearson
 //Use the arrow keys to move the player. Press 'R' to reset the game. 
 //The goal of the game is to eat the coins and stay alive.
-//I use some sound effects just for fun but you need the sound library of Processing to have sound effects 
-//so you can just comment out all of the sound effects if you do not have it.
 
 import processing.sound.*;
 
